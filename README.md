@@ -1,4 +1,4 @@
-# Data_ScienceExaple
+# Data_ScienceExample
 
 
 ## Incoming Tasks:
